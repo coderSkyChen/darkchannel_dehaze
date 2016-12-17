@@ -22,4 +22,5 @@
 包含两个文件：
 - hazeremove.exe
 - test.png
+
 执行exe文件即可获得test.png去雾后的结果图：res.png。
