@@ -16,7 +16,7 @@
 
 # 二、使用：
 ## 安装
-`$ git clone: https://github.com/coderSkyChen/darkchannel_dehaze`
+`$ git clone https://github.com/coderSkyChen/darkchannel_dehaze`
 ## 应用
 运行平台限制于:**windows**
 包含两个文件：
