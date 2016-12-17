@@ -4,9 +4,15 @@
 - 考虑到涉密性，暂不公布源码，只开放了打包后的EXE文件，以供测试。
 
 # 一、效果展示：
-## 1.![pic1](http://img.my.csdn.net/uploads/201612/17/1481971869_6910.png)
-## 2.![pic2](http://img.my.csdn.net/uploads/201612/17/1481971870_7135.png)
-## 3.![pic3](http://img.my.csdn.net/uploads/201612/17/1481971869_6910.png)
+## 1
+
+![pic1](http://img.my.csdn.net/uploads/201612/17/1481971869_6910.png)
+## 2
+
+![pic2](http://img.my.csdn.net/uploads/201612/17/1481971870_7135.png)
+## 3
+
+![pic3](http://img.my.csdn.net/uploads/201612/17/1481971869_6910.png)
 
 # 二、使用：
 ## 安装
