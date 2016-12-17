@@ -12,7 +12,7 @@
 ![pic2](http://img.my.csdn.net/uploads/201612/17/1481971870_7135.png)
 ## 3
 
-![pic3](http://img.my.csdn.net/uploads/201612/17/1481971869_6910.png)
+![pic3](http://img.my.csdn.net/uploads/201612/17/1481971871_8628.png)
 
 # 二、使用：
 ## 安装
