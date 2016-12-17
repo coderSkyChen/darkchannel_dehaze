@@ -2,6 +2,7 @@
 - 根据CVPR2009 BestPaper论文：何等人的《Single Image Haze Removal Using Dark Channel Prior》 
 - 使用C++,基于**opencv2.4.10** 实现暗通道去雾算法 
 - 考虑到涉密性，暂不公布源码，只开放了打包后的EXE文件，以供测试。
+
 # 一、效果展示：
 ## 1.![pic1](http://img.my.csdn.net/uploads/201612/17/1481971871_8628.png-thumb.jpg)
 ## 2.![pic2](http://img.my.csdn.net/uploads/201612/17/1481971870_7135.png-thumb.jpg)
